@@ -45,5 +45,5 @@ The project includes the following parts:
   - reset esp by connection Reset(6) to GND
   - disconnect GPIO-0(5) and Reset(6) from ground
   - compile and flash esp8266-01 using the arduino IDE
-<img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/esp8266Pinout.png" height="500" height="250"> 
+<img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/esp8266Pinout.png" height="250" height="250"> 
   

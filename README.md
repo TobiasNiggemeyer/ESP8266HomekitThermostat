@@ -32,4 +32,4 @@ The project includes the following parts:
 
 
 ## Schematics
-<img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/schematics.png" height="500">
+<img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/schematics.png" height="500" class="center">

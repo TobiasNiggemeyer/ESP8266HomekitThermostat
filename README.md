@@ -2,7 +2,7 @@
 
 This project is used to modify the "Eqiva Thermostat Model N, 132231K0A" to enable Apple Homekit using an ESP8266-01.
 The source code is based on Mixiaoxio Arduino-HomeKit-ESP8266 project (see https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266).
-The GPIOs 0 and 2 of the esp are connected to the rotary encoder of the thermostat and simulate it (see https://www.youtube.com/watch?v=m0ZxRcsp5y4). To use this extension for the thermostat, connect the two outputs of the rotary encoder to T1 and T2 of the PCB and the GND pin of the rotary encoder to GND of the PCB (see images). Moreover, the voltage level of the outputs of the rotary encoder must be high since the system pulls the signals to GND (turn rotary encoder once -> check if the system works -> if not turn again). 
+The GPIOs 0 and 2 of the esp are connected to the rotary encoder of the thermostat to automate the function (see https://www.youtube.com/watch?v=m0ZxRcsp5y4). To use this extension for the thermostat, connect the two outputs of the rotary encoder to T1 and T2 of the PCB and the GND pin of the rotary encoder to GND of the PCB (see images). Moreover, the voltage level of the outputs of the rotary encoder must be high since the system pulls the signals to GND (turn rotary encoder once -> check if the system works -> if not turn again). 
 
 The project includes the following parts:
   - ESP8266 source code

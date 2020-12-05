@@ -39,4 +39,11 @@ The project includes the following parts:
 
 - change SSID and password in wifi_info.h
 - compile and flash software to esp8266-01
-  - power the esp
+  - power the esp: 3.3V to pin 8 and 4, GND to pin 1
+  - connect usb to seral converter: TX->RX(7), RX->TX(2), GND->GNC(1)
+  - pull GPIO-0(5) to GND (use 10k resistor)
+  - reset esp by connection Reset(6) to GND
+  - disconnect GPIO-0(5) and Reset(6) from ground
+  - compile and flash esp8266-01 using the arduino IDE
+<img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/esp8266Pinout.png" height="500" class="center"> 
+  

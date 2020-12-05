@@ -26,6 +26,7 @@ Components:
     <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/mountedThermostat_1.jpg" height="250">
     <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/openHousing_0.jpg" height="250">
     <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/openHousing_1.jpg" height="250">
+    <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/Homekit.jpeg" height="250">
   </div>
 </div> 
 

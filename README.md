@@ -34,3 +34,9 @@ The project includes the following parts:
 
 ## Schematics
 <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/schematics.png" height="500" class="center">
+
+## Instructions
+
+- change SSID and password in wifi_info.h
+- compile and flash software to esp8266-01
+  - power the esp

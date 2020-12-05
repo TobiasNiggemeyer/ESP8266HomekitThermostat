@@ -17,7 +17,7 @@ The project includes the following parts:
   - 1x esp8266-01:                        3,000€
   - 1x 5V-3.3V regulator:                 0.700€
   - some wires                            -
-### Sum:                                    15,005€
+### Sum:                                    15,00€
   
 ## Images
  <div class="row">

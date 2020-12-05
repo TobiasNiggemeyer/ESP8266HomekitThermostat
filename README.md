@@ -60,5 +60,6 @@ R1 and R4 are used to pull the GPIOs of the ESP to a floating level of around 1V
   - better fit
 - removal of power supply by battery 
 - create detailed/professional schematics
+- add an LED to indicate if the signal of the rotary encoder is high (needed to simulate the rotary encoder with the esp)
 
 ### Feel free to ask questions and improve the thermostat

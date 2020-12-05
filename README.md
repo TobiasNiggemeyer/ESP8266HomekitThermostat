@@ -7,7 +7,7 @@ The GPIOs 0 and 2 of the esp are connected to the rotary encoder of the thermost
 The project includes the following parts:
   - ESP8266 source code
   - 3d model to interate the ESP into the thermostat (not perfect but works)
-  - electronic schematic and layout
+  - schematic and layout
   
 ## Components/Costs
   - Eqiva Thermostat Model N, 132231K0A   10,00€

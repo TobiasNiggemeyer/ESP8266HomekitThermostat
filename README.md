@@ -31,4 +31,5 @@ The project includes the following parts:
 </div> 
 
 
-
+## Schematics
+<img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/schematics.png" height="500">

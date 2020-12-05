@@ -58,5 +58,6 @@ R1 and R4 are used to pull the GPIOs of the ESP to a floating level of around 1V
   - smaller
   - better fit
 - removal of power supply by battery 
+- create detailed/professional schematics
 
 ### Feel free to ask questions and improve the thermostat

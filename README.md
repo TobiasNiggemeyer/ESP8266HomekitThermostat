@@ -19,4 +19,4 @@ Components:
   Sum:                                    14,305€
   
 ## Images
-![alt text](https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/electronicHousing.png | width=100)
+![alt text](https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/electronicHousing.png){:height="50%" width="50%"}

@@ -15,8 +15,9 @@ The project includes the following parts:
   - 2x 10k resistor:                      0,035€
   - 1x xx-xx stripe grid board:           0,500€
   - 1x esp8266-01:                        3,000€
+  - 1x 5V-3.3V regulator:                 0.700€
   - some wires                            -
-  Sum:                                    14,305€
+  Sum:                                    15,005€
   
 ## Images
  <div class="row">

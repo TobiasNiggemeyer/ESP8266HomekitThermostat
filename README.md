@@ -8,7 +8,7 @@ The project includes the following parts:
   - 3d model to interate the ESP into the thermostat (not perfect but works)
   - electronic schematic and layout
   
-Components:
+## Components/Costs
   - Eqiva Thermostat Model N, 132231K0A   10,00€
   - 2x NPN-transistor:                    0,700€
   - 4x 1k resistor:                       0,070€

@@ -46,4 +46,11 @@ The project includes the following parts:
   - disconnect GPIO-0(5) and Reset(6) from ground
   - compile and flash esp8266-01 using the arduino IDE
 <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/esp8266Pinout.png" height="250" height="250"> 
-  
+
+
+## Open Points
+
+- Improve housing for the electronics
+  - smaller
+  - better fit
+- removal of power supply by battery 

@@ -54,3 +54,5 @@ The project includes the following parts:
   - smaller
   - better fit
 - removal of power supply by battery 
+
+### Feel free to ask questions and improve the thermostat

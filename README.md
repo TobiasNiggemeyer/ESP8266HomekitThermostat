@@ -35,7 +35,8 @@ The project includes the following parts:
 ## Schematics
 <img src="https://github.com/TobiasNiggemeyer/ESP8266HomekitThermostat/blob/main/electronicHousing/schematics.png" height="500" class="center">
 
-### Hint: R1 and R4 are used to pull the GPIOs of the ESP to a floating level of around 1V to enable the direct boot of the esp (esp enters different modes if one or both GPIOs are pulled to GND).
+### Hint: 
+R1 and R4 are used to pull the GPIOs of the ESP to a floating level of around 1V to enable the direct boot of the esp (esp enters different modes if one or both GPIOs are pulled to GND).
 
 
 ## Instructions

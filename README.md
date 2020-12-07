@@ -10,15 +10,15 @@ The project includes the following parts:
   - schematic and layout
   
 ## Components/Costs
-  - Eqiva Thermostat Model N, 132231K0A   10,00€
-  - 2x NPN-transistor:                    0,700€
-  - 4x 1k resistor:                       0,070€
-  - 2x 10k resistor:                      0,035€
-  - 1x xx-xx stripe grid board:           0,500€
-  - 1x esp8266-01:                        3,000€
-  - 1x 5V-3.3V regulator:                 0.700€
+  - Eqiva Thermostat Model N, 132231K0A   ~ 10,00€
+  - 2x NPN-transistor:                    ~ 0,700€
+  - 4x 1k resistor:                       ~ 0,070€
+  - 2x 10k resistor:                      ~ 0,035€
+  - 1x xx-xx stripe grid board:           ~ 0,500€
+  - 1x esp8266-01:                        ~ 3,000€
+  - 1x 5V-3.3V regulator:                 ~ 0.700€
   - some wires                            -
-### Sum:                                    15,00€
+### Sum:                                  ~ 15,00€
   
 ## Images
  <div class="row">
